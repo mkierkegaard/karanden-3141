@@ -1,0 +1,50 @@
+{
+    "qna": 
+        [
+            {
+                "q": "Vad ingår i månadsavgiften?",
+                "a": "Se Avgiften under avsnittet Information till medlemmar."
+            },
+            {
+                "q": "Vad gäller schablonavgiften för el?",
+                "a": "Förbrukad el läses av i januari varje år, överskjutande kostnad eller tillgodohavande justeras på april- månads avgiftsavi. Vid överlåtelse är det upp till köpare och säljare att själva reglera detta."
+            },
+            {
+                "q": "Tar ni ut någon överlåtelseavgift? Någon pantsättningsavgift?",
+                "a": "Överlåtelse- och pantsättningsavgift (per pant) tas ut med 2,5% resp. 1% av ett prisbasbelopp. Överlåtelseavgift betalas av köparen."
+            },
+            {
+                "q": "P-platser som eventuellt finns att hyra? Är det kö?",
+                "a": "Se Parkering under avsnittet Information till medlemmar."
+            },
+            {
+                "q": "Är det några renoveringar på gång framöver i föreningen?",
+                "a": "Fastigheterna är en kombination av helrenovering och nybyggnad av tidigare 2-plansfastigheter. Vår förening var inflyttningsklar hösten 2008 och det finns inga renoveringar gjorda eller planerade."
+            },
+            {
+                "q": "Har ni några planer/beslut på att höja månadsavgiften? När och hur mycket i så fall?",
+                "a": "Nej, men detta är något vi löpande diskuterar på våra styrelsemöten."
+            },
+            {
+                "q": "Om en student vill bo i lägenheten med föräldrarna äga den eller liknande, hur ser ni på det?",
+                "a": "Våra stadgar kräver att person som bor i bostadsrätten är medlem, annars räknas det som andrahandsuthyrning. Vi rekommenderar att barn vars föräldrar bekostar lägenheten låter son/dotter stå som ägare till minst 10%."
+            },
+            {
+                "q": "Godkänns juridisk person som medlem i föreningen?",
+                "a": "Nej."
+            },
+            {
+                "q": "Vilken garantitid har ni och när sker garantibesiktningen?",
+                "a": "Garantitiden är 5 år och fastigheterna garantibesiktigades vintern 2013."
+            },
+            {
+                "q": "Har ni någon samlingslokal/festlokal/övernattningslägenhet?",
+                "a": "Nej."
+            },
+            {
+                "q": "Finns det någon inre reparationsfond till lägenheten?",
+                "a": "Nej."
+            }
+            
+        ]
+}
